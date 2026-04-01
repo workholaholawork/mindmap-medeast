@@ -1,0 +1,122 @@
+[
+  {
+    "section": "1. Прием врачей / Консультации (Врачи)",
+    "slug": "priem-vrachey-konsultatsii-vrachi",
+    "folder": "/mnt/user-data/outputs/site-map-sections/priem-vrachey-konsultatsii-vrachi",
+    "html": "/mnt/user-data/outputs/site-map-sections/priem-vrachey-konsultatsii-vrachi/priem-vrachey-konsultatsii-vrachi.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/priem-vrachey-konsultatsii-vrachi/priem-vrachey-konsultatsii-vrachi.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/priem-vrachey-konsultatsii-vrachi/priem-vrachey-konsultatsii-vrachi.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/priem-vrachey-konsultatsii-vrachi/priem-vrachey-konsultatsii-vrachi.md",
+    "unique_paths": 18,
+    "node_count": 18,
+    "size": {
+      "width": 603,
+      "height": 832.0
+    }
+  },
+  {
+    "section": "2. Услуги (по направлениям)",
+    "slug": "uslugi-po-napravleniyam",
+    "folder": "/mnt/user-data/outputs/site-map-sections/uslugi-po-napravleniyam",
+    "html": "/mnt/user-data/outputs/site-map-sections/uslugi-po-napravleniyam/uslugi-po-napravleniyam.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/uslugi-po-napravleniyam/uslugi-po-napravleniyam.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/uslugi-po-napravleniyam/uslugi-po-napravleniyam.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/uslugi-po-napravleniyam/uslugi-po-napravleniyam.md",
+    "unique_paths": 761,
+    "node_count": 813,
+    "size": {
+      "width": 1546,
+      "height": 28938.0
+    }
+  },
+  {
+    "section": "3. Диагностика",
+    "slug": "diagnostika",
+    "folder": "/mnt/user-data/outputs/site-map-sections/diagnostika",
+    "html": "/mnt/user-data/outputs/site-map-sections/diagnostika/diagnostika.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/diagnostika/diagnostika.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/diagnostika/diagnostika.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/diagnostika/diagnostika.md",
+    "unique_paths": 173,
+    "node_count": 186,
+    "size": {
+      "width": 1147,
+      "height": 6286.0
+    }
+  },
+  {
+    "section": "4. Анализы (Лабораторная диагностика)",
+    "slug": "analizy-laboratornaya-diagnostika",
+    "folder": "/mnt/user-data/outputs/site-map-sections/analizy-laboratornaya-diagnostika",
+    "html": "/mnt/user-data/outputs/site-map-sections/analizy-laboratornaya-diagnostika/analizy-laboratornaya-diagnostika.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/analizy-laboratornaya-diagnostika/analizy-laboratornaya-diagnostika.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/analizy-laboratornaya-diagnostika/analizy-laboratornaya-diagnostika.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/analizy-laboratornaya-diagnostika/analizy-laboratornaya-diagnostika.md",
+    "unique_paths": 188,
+    "node_count": 189,
+    "size": {
+      "width": 953,
+      "height": 7062.0
+    }
+  },
+  {
+    "section": "6. Стационар",
+    "slug": "statsionar",
+    "folder": "/mnt/user-data/outputs/site-map-sections/statsionar",
+    "html": "/mnt/user-data/outputs/site-map-sections/statsionar/statsionar.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/statsionar/statsionar.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/statsionar/statsionar.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/statsionar/statsionar.md",
+    "unique_paths": 2,
+    "node_count": 2,
+    "size": {
+      "width": 508,
+      "height": 150.0
+    }
+  },
+  {
+    "section": "7. Процедурный кабинет",
+    "slug": "protsedurnyy-kabinet",
+    "folder": "/mnt/user-data/outputs/site-map-sections/protsedurnyy-kabinet",
+    "html": "/mnt/user-data/outputs/site-map-sections/protsedurnyy-kabinet/protsedurnyy-kabinet.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/protsedurnyy-kabinet/protsedurnyy-kabinet.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/protsedurnyy-kabinet/protsedurnyy-kabinet.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/protsedurnyy-kabinet/protsedurnyy-kabinet.md",
+    "unique_paths": 28,
+    "node_count": 28,
+    "size": {
+      "width": 862,
+      "height": 1140.0
+    }
+  },
+  {
+    "section": "5. Энциклопедия здоровья",
+    "slug": "entsiklopediya-zdorovya",
+    "folder": "/mnt/user-data/outputs/site-map-sections/entsiklopediya-zdorovya",
+    "html": "/mnt/user-data/outputs/site-map-sections/entsiklopediya-zdorovya/entsiklopediya-zdorovya.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/entsiklopediya-zdorovya/entsiklopediya-zdorovya.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/entsiklopediya-zdorovya/entsiklopediya-zdorovya.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/entsiklopediya-zdorovya/entsiklopediya-zdorovya.md",
+    "unique_paths": 817,
+    "node_count": 861,
+    "size": {
+      "width": 1231,
+      "height": 31738.0
+    }
+  },
+  {
+    "section": "6. О клинике",
+    "slug": "o-klinike",
+    "folder": "/mnt/user-data/outputs/site-map-sections/o-klinike",
+    "html": "/mnt/user-data/outputs/site-map-sections/o-klinike/o-klinike.html",
+    "svg": "/mnt/user-data/outputs/site-map-sections/o-klinike/o-klinike.svg",
+    "mm": "/mnt/user-data/outputs/site-map-sections/o-klinike/o-klinike.mm",
+    "md": "/mnt/user-data/outputs/site-map-sections/o-klinike/o-klinike.md",
+    "unique_paths": 15,
+    "node_count": 15,
+    "size": {
+      "width": 508,
+      "height": 696.0
+    }
+  }
+]
